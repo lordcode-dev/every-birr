@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-ethiopia-green: #009739;
+  --color-ethiopia-yellow: #FFD100;
+  --color-ethiopia-red: #EF3340;
+}
